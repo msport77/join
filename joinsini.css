@@ -9,12 +9,12 @@
 
 @font-face{ 
 	font-family: 'joinfont';
-	src: url('HelveticaNeue Light.ttf') format('truetype');
+	src: url('https://raw.githack.com/msport77/join/master/Helvetica-Neue-Light_22503.ttf') format('truetype');
 }
 
 @font-face{ 
 	font-family: 'jointext';
-	src: url('Poppins-SemiBold.otf') format('truetype');
+	src: url('https://raw.githack.com/msport77/join/master/poppins-semibold.ttf') format('truetype');
 }
 html, body {
   color:white;
