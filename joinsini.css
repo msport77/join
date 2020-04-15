@@ -140,8 +140,8 @@ img.color_flip {
     margin: 90px auto 60px;
     position: relative;
     padding: 35px 0;
-    border-top: 2px dotted greenyellow;
-    border-bottom: 2px dotted greenyellow;
+    border-top: 2px dotted skyblue;
+    border-bottom: 2px dotted skyblue;
 }
 
 .home_quote .icon {
@@ -159,7 +159,7 @@ img.color_flip {
 .home_quote .answer,.home_quote .question {
     display: block;
     width: 100%;
-    color: greenyellow;
+    color: skyblue;
     font-family: Roboto,sans-serif;
     text-align: center;
 }
@@ -197,7 +197,7 @@ img.color_flip {
 }
 
 .home_quote a.cta:hover {
-    background-color: greenyellow;
+    background-color: skyblue;
     color: #1b1b1b;
 }
 
@@ -208,7 +208,7 @@ img.color_flip {
 }
 
 .title {
-    color:greenyellow;
+    color:skyblue;
     font-weight:700;
 }
 
@@ -294,7 +294,7 @@ img.color_flip {
     margin: 90px auto 30px;
     position: relative;
     padding: 35px 0;
-    border-bottom: 2px groove greenyellow;
+    border-bottom: 2px groove skyblue;
 }
 
 .logo_sub .icon {
@@ -312,7 +312,7 @@ img.color_flip {
 .logo_sub .answer,.home_quote .question {
     display: block;
     width: 100%;
-    color: greenyellow;
+    color: skyblue;
     font-family: Roboto,sans-serif;
     text-align: center;
 }
@@ -350,7 +350,7 @@ img.color_flip {
 }
 
 .logo_sub a.cta:hover {
-    background-color: greenyellow;
+    background-color: skyblue;
     color: #1b1b1b;
 }
 
@@ -361,7 +361,7 @@ img.color_flip {
 }
 
 .title {
-    color:greenyellow;
+    color:skyblue;
     font-weight:700;
 }
 
@@ -1748,7 +1748,7 @@ p {
   letter-spacing: 0.02em;
 }
 
-.menu-footer, menu ul{color: greenyellow;padding: 0;}
+.menu-footer, menu ul{color: skyblue;padding: 0;}
 .menu-footer{margin: 0px 0 15px 0;text-align:center;}
 .menu-footer li{display: inline;padding: 0 5px;border-left: 1px solid white;}
 .menu-footer li:first-child{border: none;}
@@ -2212,10 +2212,10 @@ li:hover {
 
 .separate {
     width: 100%;
-    border-top: 1px dotted greenyellow;
+    border-top: 1px dotted skyblue;
     padding: 20px 0;
     float: left;
-    border-bottom: 1px dotted greenyellow;
+    border-bottom: 1px dotted skyblue;
 }
 
 .certified_mid {
