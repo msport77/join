@@ -1402,7 +1402,7 @@ a {
 }
 
 a:hover, a:focus {
-    color: orange;
+    color: skyblue;
     text-decoration: underline;
 }
 
@@ -1543,7 +1543,7 @@ p.iklan-text {
     padding: 0 9px;
     font-weight:700;
     text-align: center;
-    background: orange;
+    background: skyblue;
     letter-spacing: 0.08em;
 }
 
