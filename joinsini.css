@@ -179,7 +179,7 @@ img.color_flip {
 .home_quote a.cta {
     position: absolute;
     border-radius: 30px;
-    background-color: #fccd1b;
+    background-color: #D2B48C;
     padding: 10px 20px;
     font-family: Roboto,sans-serif;
     font-size: 12px;
@@ -1709,7 +1709,7 @@ img.color_flip {
 
 #myTable th {
   color:#3d3d3d;
-  background-color:#189970;
+  background-color:#6495ED	;
 }
 
 
@@ -1722,7 +1722,7 @@ img.color_flip {
 }
 
 table tr.header, table tr:hover {
-  background-color: #189970;
+  background-color: #6495EE;
 }
 
 a {
@@ -2330,7 +2330,7 @@ li:hover {
 	font-weight:bold;
 	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #86ae47;
+	text-shadow:0px 1px 0px ##6495ED	;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #a5cc52 5%, #b8e356 100%);
@@ -2344,7 +2344,7 @@ li:hover {
 .button {
   display: inline-flex;
   align-items: center;
-  background: #349970;
+  background: #6495ED	;
   border-radius: 5px;
   height: 28px;
   padding: 0 10px;
@@ -2357,13 +2357,13 @@ li:hover {
   will-change: transform;
   border: 1px solid #fff;
   line-height:12px;
-  box-shadow: 0 0 15px deepskyblue;
+  box-shadow: 0 0 15px LavenderBlush;
 }
 .button:hover {
   color:#1b1b1b;
   font-weight:700;
   text-decoration:none;
-  background: orange;
+  background: Magenta;
   box-shadow: 0 4px 17px rgba(0, 0, 0, 0.2);
   transform: translate3d(0, -2px, 0);
 }
