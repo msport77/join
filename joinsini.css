@@ -179,10 +179,10 @@ img.color_flip {
 .home_quote a.cta {
     position: absolute;
     border-radius: 30px;
-    background-color: #fccd1b;
+    background-color: #00ff51;
     padding: 10px 20px;
     font-family: Roboto,sans-serif;
-    font-size: 12px;
+    font-size: 15px;
     color: #2c1522;
     bottom: -17px;
     margin: auto;
@@ -1709,7 +1709,7 @@ img.color_flip {
 
 #myTable th {
   color:#3d3d3d;
-  background-color:#189970;
+  background-color:#4c00ff;
 }
 
 
@@ -1722,7 +1722,7 @@ img.color_flip {
 }
 
 table tr.header, table tr:hover {
-  background-color: #189970;
+  background-color: #4c00ff;
 }
 
 a {
@@ -2344,7 +2344,7 @@ li:hover {
 .button {
   display: inline-flex;
   align-items: center;
-  background: #349970;
+  background: #ff0000;
   border-radius: 5px;
   height: 28px;
   padding: 0 10px;
@@ -2363,7 +2363,7 @@ li:hover {
   color:#1b1b1b;
   font-weight:700;
   text-decoration:none;
-  background: orange;
+  background: Aquamarine;
   box-shadow: 0 4px 17px rgba(0, 0, 0, 0.2);
   transform: translate3d(0, -2px, 0);
 }
